@@ -1,0 +1,17 @@
+Region,Product Category,Sales Rep,Revenue,Units Sold,Month
+East,Electronics,Alice Johnson,125000,340,January
+West,Electronics,Bob Smith,98000,280,January
+North,Furniture,Carol Davis,67000,150,January
+South,Clothing,David Lee,45000,320,January
+East,Furniture,Alice Johnson,89000,200,February
+West,Clothing,Bob Smith,55000,400,February
+North,Electronics,Carol Davis,112000,310,February
+South,Furniture,David Lee,72000,160,February
+East,Clothing,Eve Wilson,38000,290,March
+West,Furniture,Frank Brown,95000,210,March
+North,Clothing,Carol Davis,42000,350,March
+South,Electronics,David Lee,130000,370,March
+East,Electronics,Alice Johnson,145000,390,April
+West,Electronics,Bob Smith,105000,300,April
+North,Furniture,Eve Wilson,78000,180,April
+South,Clothing,Frank Brown,52000,340,April
