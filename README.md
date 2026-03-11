@@ -2,7 +2,7 @@
 
 > **"Own your Data, Own your AI"** — Replace 10-minute Excel filters with 5-second conversations.
 
-**Live Demo:** [VERCEL_URL]
+**Live Demo:** [https://talking-rabbitt-the-ai-product-mana.vercel.app](https://talking-rabbitt-the-ai-product-mana.vercel.app)
 
 ---
 
